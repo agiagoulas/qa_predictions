@@ -16,7 +16,7 @@
 | zero_shot_german  | -                                 | MLQA dev-context-de-question-de |
 
 ### SQuAD Prediction
-[SQuAD Predictions](SQuAD_prediction_results.json)
+[SQuAD Predictions](SQUAD_prediction_results.json)
 
 | Name in File      | Used Dataset for Finetuning       | Used Dataset for Prediction     |
 |-------------------|-----------------------------------|---------------------------------|
